@@ -1,16 +1,21 @@
 Exercício001:
+
   Crie um programa que escreva "Olá, Mundo!" na tela.
 
 Exercício002:
+
   Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 
 Exercício003:
+
   Crie um script Python que leia o dia, o mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
 
 Exercício004:
+
   Crie um programa que leia dois numeros e mostre a soma entre eles.
 
 Exercício005:
+
   Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possiveis sobre ela.
 
 Exercício006:
