@@ -14,10 +14,10 @@ Exercício004:
   Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possiveis sobre ela.
 
 Exercício005:
-  
+  Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
 
 Exercício006:
-  
+  Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
 
 Exercício007:
   
