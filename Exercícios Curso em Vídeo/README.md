@@ -20,9 +20,10 @@ Exercício006:
   Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
 
 Exercício007:
-  
+  Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 
 Exercício008:
+  
 
 Exercício009:
 
