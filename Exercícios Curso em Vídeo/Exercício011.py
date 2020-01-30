@@ -1,9 +1,11 @@
-# Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
+# Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta
+# necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2 metros quadrados.
 
-valor_original = float(input('Qual é o valor do produto? R$'))
+largura_da_parede = float(input('Largura da parede: '))
+altura_da_parede = float(input('Altura da parede: '))
 
-percentual_de_desconto = 5
+area_de_parede = largura_da_parede * altura_da_parede
+litros_de_tinta = area_de_parede / 2
 
-valor_com_desconto: float = valor_original * (1 - percentual_de_desconto/100)
-
-print('O produto que custava R${:.2f}, na promoção com desconto de {}% vai custar R${:.2f}'.format(valor_original, percentual_de_desconto, valor_com_desconto))
+print('Sua parede tem a dimensão de {}x{} e sua área é de {:.2f} m²,'.format(largura_da_parede, altura_da_parede, area_de_parede))
+print('Para pintar essa parede, você precisará de {:.2f} litros de tinta.'.format(litros_de_tinta))
