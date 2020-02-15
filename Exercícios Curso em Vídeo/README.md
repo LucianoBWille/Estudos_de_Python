@@ -67,6 +67,10 @@ Exercício021:
   Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
 
 Exercício022:
+  Crie um programa que leia o nome completo de uma pessoa e mostre: 
+- O nome com todas as letras maiúsculas e minúsculas.
+- Quantas letras ao todo (sem considerar espaços).
+- Quantas letras tem o primeiro nome.
 
 Exercício023:
 
