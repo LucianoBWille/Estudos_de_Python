@@ -76,8 +76,10 @@ Exercício023:
   Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
 
 Exercício024:
+  Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome "SANTO".
 
 Exercício025:
+  Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
 
 Exercício026:
 
