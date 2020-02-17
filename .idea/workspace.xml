@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02260bf5-3d0b-414f-8a56-be0a30eb301f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício029.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício029.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício030.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício030.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,17 +16,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="84" column="75" lean-forward="true" selection-start-line="84" selection-start-column="75" selection-end-line="84" selection-end-column="75" />
+            <state relative-caret-position="270">
+              <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício029.py">
+        <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício030.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -46,8 +46,9 @@
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício026.py" />
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício027.py" />
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício028.py" />
-        <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" />
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício029.py" />
+        <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" />
+        <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício030.py" />
       </list>
     </option>
   </component>
@@ -97,28 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercício029">
-    <configuration name="Exercício025" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Estudos_de_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios Curso em Vídeo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício025.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Exercício030">
     <configuration name="Exercício026" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudos_de_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,13 +183,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Exercício030" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Estudos_de_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios Curso em Vídeo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício030.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercício030" />
         <item itemvalue="Python.Exercício029" />
         <item itemvalue="Python.Exercício028" />
         <item itemvalue="Python.Exercício027" />
         <item itemvalue="Python.Exercício026" />
-        <item itemvalue="Python.Exercício025" />
       </list>
     </recent_temporary>
   </component>
@@ -412,10 +413,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício030.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="84" column="75" lean-forward="true" selection-start-line="84" selection-start-column="75" selection-end-line="84" selection-end-column="75" />
+        <state relative-caret-position="270">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
         </state>
       </provider>
     </entry>
