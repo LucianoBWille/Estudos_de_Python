@@ -103,6 +103,7 @@ Exercício032:
   Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
 
 Exercício033:
+  Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
 
 Exercício034:
 
