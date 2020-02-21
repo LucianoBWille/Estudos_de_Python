@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02260bf5-3d0b-414f-8a56-be0a30eb301f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício041.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício041.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="02260bf5-3d0b-414f-8a56-be0a30eb301f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +30,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -60,6 +64,7 @@
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício040.py" />
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" />
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício041.py" />
+        <option value="$PROJECT_DIR$/Brincando com código/003 - Idade da pessoa.py" />
       </list>
     </option>
   </component>
@@ -80,6 +85,11 @@
             <path>
               <item name="Estudos_de_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Estudos_de_Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Estudos_de_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Estudos_de_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Brincando com código" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Estudos_de_Python" type="b2602c69:ProjectViewProjectNode" />
@@ -110,8 +120,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercício041">
-    <configuration name="Exercício037" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.003 - Idade da pessoa">
+    <configuration name="003 - Idade da pessoa" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudos_de_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios Curso em Vídeo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Brincando com código" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício037.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Brincando com código/003 - Idade da pessoa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.003 - Idade da pessoa" />
         <item itemvalue="Python.Exercício041" />
         <item itemvalue="Python.Exercício040" />
         <item itemvalue="Python.Exercício039" />
         <item itemvalue="Python.Exercício038" />
-        <item itemvalue="Python.Exercício037" />
       </list>
     </recent_temporary>
   </component>
@@ -509,6 +519,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
           <caret line="140" column="26" selection-start-line="140" selection-start-column="26" selection-end-line="140" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/datetime.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1310" column="6" selection-start-line="1310" selection-start-column="6" selection-end-line="1310" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brincando com código/003 - Idade da pessoa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
