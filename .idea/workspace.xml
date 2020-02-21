@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02260bf5-3d0b-414f-8a56-be0a30eb301f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício039.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício039.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício040.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício040.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,20 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="126" column="295" selection-start-line="126" selection-start-column="295" selection-end-line="126" selection-end-column="295" />
+            <state relative-caret-position="331">
+              <caret line="132" column="33" selection-start-line="132" selection-start-column="33" selection-end-line="132" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício039.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício040.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -56,8 +56,9 @@
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício036.py" />
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício037.py" />
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício038.py" />
-        <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" />
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício039.py" />
+        <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" />
+        <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício040.py" />
       </list>
     </option>
   </component>
@@ -108,28 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercício039">
-    <configuration name="Exercício035" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Estudos_de_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios Curso em Vídeo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício035.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Exercício040">
     <configuration name="Exercício036" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudos_de_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,13 +194,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Exercício040" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Estudos_de_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios Curso em Vídeo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício040.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercício040" />
         <item itemvalue="Python.Exercício039" />
         <item itemvalue="Python.Exercício038" />
         <item itemvalue="Python.Exercício037" />
         <item itemvalue="Python.Exercício036" />
-        <item itemvalue="Python.Exercício035" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +249,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="726" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -498,8 +498,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="126" column="295" selection-start-line="126" selection-start-column="295" selection-end-line="126" selection-end-column="295" />
+        <state relative-caret-position="331">
+          <caret line="132" column="33" selection-start-line="132" selection-start-column="33" selection-end-line="132" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício040.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
