@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02260bf5-3d0b-414f-8a56-be0a30eb301f" name="Default Changelist" comment="" />
+    <list default="true" id="02260bf5-3d0b-414f-8a56-be0a30eb301f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício036.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício036.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +16,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="113" column="13" lean-forward="true" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+            <state relative-caret-position="151">
+              <caret line="114" column="251" selection-start-line="114" selection-start-column="251" selection-end-line="114" selection-end-column="251" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício036.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -40,12 +52,13 @@
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício032.py" />
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício033.py" />
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício034.py" />
-        <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" />
         <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício035.py" />
+        <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md" />
+        <option value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício036.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1" />
     <option name="y" value="160" />
     <option name="width" value="1358" />
@@ -92,28 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercício035">
-    <configuration name="Exercício031" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Estudos_de_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios Curso em Vídeo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício031.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Exercício036">
     <configuration name="Exercício032" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudos_de_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,13 +190,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Exercício036" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Estudos_de_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios Curso em Vídeo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício036.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercício036" />
         <item itemvalue="Python.Exercício035" />
         <item itemvalue="Python.Exercício034" />
         <item itemvalue="Python.Exercício033" />
         <item itemvalue="Python.Exercício032" />
-        <item itemvalue="Python.Exercício031" />
       </list>
     </recent_temporary>
   </component>
@@ -231,15 +244,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="160" width="1358" height="494" extended-state="0" />
+    <frame x="-1" y="0" width="1368" height="726" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25131282" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5434174" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -442,6 +455,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Pictures/Capturas de tela/Cores terminal python.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício035.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -449,10 +465,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/Exercício036.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercícios Curso em Vídeo/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="113" column="13" lean-forward="true" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+        <state relative-caret-position="151">
+          <caret line="114" column="251" selection-start-line="114" selection-start-column="251" selection-end-line="114" selection-end-column="251" />
         </state>
       </provider>
     </entry>
